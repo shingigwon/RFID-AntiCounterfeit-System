@@ -18,7 +18,8 @@
 
 ## 사용한 센서
 - **RFID-RC522**: 제품 정보 저장 및 인증을 위한 RFID 모듈
-- ![RFID-RC522](https://github.com/user-attachments/assets/40dddac2-4221-437f-b3ed-69db4c6dba50)
+![RFID-RC522_](https://github.com/user-attachments/assets/4b611906-b26c-455a-87e5-bbd6091193b3)
+
 
 
 ## 시스템 흐름도
