@@ -38,6 +38,6 @@
 1. **ESP32-S3와 RFID 모듈 간 연결 안정성 개선**
 2. **MQTT와 NodeRED 활용성을 증가시켜 시스템 확장성 강화**
 
-- [임베디드 SW 프로그래밍_기말_프로젝트_결과보고서.pdf](https://github.com/user-attachments/files/19530597/SW._._._.pdf)
+- [임베디드 SW 프로그래밍_기말_프로젝트_결과보고서.pdf](https://github.com/user-attachments/files/19530597/SW_Project_SGG.pdf)
 
 
