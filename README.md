@@ -51,13 +51,13 @@ RFID를 활용하여 제품 정보를 저장하고 정품 여부를 검증할 �
 RFID UID를 수신하여 DB 조회 후 대시보드에 정품 정보를 표시하는 흐름입니다.
  
 ![NodeRED Flow](https://github.com/user-attachments/assets/b37ffd17-3d26-424e-a30f-e0d569f19f3a)
-)
+
  
 ### 대시보드
 좌측은 신규 RFID 정보 등록, 우측은 등록된 정품 정보 조회 화면입니다.
  
 ![Dashboard](https://github.com/user-attachments/assets/fe70ad09-c42b-4584-905a-e04e330ac0db)
-)
+
  
 ---
 
