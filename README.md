@@ -27,11 +27,14 @@ RFID를 활용하여 제품 정보를 저장하고 정품 여부를 검증할 �
 
 ---
 
-## ⚙️ Tech Stack
-- Embedded: ESP32-S3-DevKitC-1, Arduino  
-- Communication: MQTT (Mosquitto)  
-- Data: MySQL  
-- Tool: NodeRED  
+## 🛠 Tech Stack
+| 구분           | 기술                          |
+|----------------|-------------------------------|
+| 하드웨어       | ESP32-S3-DevKitC-1, RFID-RC522 |
+| 펌웨어         | Arduino                        |
+| 통신           | MQTT (Mosquitto)               |
+| 서버/미들웨어  | Node-RED                       |
+| 데이터베이스   | MySQL                          |
 
 ---
 
@@ -40,6 +43,22 @@ RFID를 활용하여 제품 정보를 저장하고 정품 여부를 검증할 �
 
 ![RFID-RC522](https://github.com/user-attachments/assets/4b611906-b26c-455a-87e5-bbd6091193b3)
 
+---
+
+## 🖥️ 동작 화면
+ 
+### NodeRED Flow
+RFID UID를 수신하여 DB 조회 후 대시보드에 정품 정보를 표시하는 흐름입니다.
+ 
+![NodeRED Flow](https://github.com/user-attachments/assets/b37ffd17-3d26-424e-a30f-e0d569f19f3a)
+)
+ 
+### 대시보드
+좌측은 신규 RFID 정보 등록, 우측은 등록된 정품 정보 조회 화면입니다.
+ 
+![Dashboard](https://github.com/user-attachments/assets/fe70ad09-c42b-4584-905a-e04e330ac0db)
+)
+ 
 ---
 
 ## 🙋‍♂️ 담당 역할
