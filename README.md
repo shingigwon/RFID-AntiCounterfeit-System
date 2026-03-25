@@ -30,7 +30,7 @@ RFID를 활용하여 제품 정보를 저장하고 정품 여부를 검증할 �
 ## ⚙️ Tech Stack
 - Embedded: ESP32-S3-DevKitC-1, Arduino  
 - Communication: MQTT (Mosquitto)  
-- Backend/Data: MySQL  
+- Data: MySQL  
 - Tool: NodeRED  
 
 ---
